@@ -43,7 +43,7 @@ class Formpage extends Component {
       }));
       alert("Successfully Submitted");
     } else {
-      alert("Not Accepted");
+      alert("Not Accepted Yaar");
     }
   };
 
