@@ -54,7 +54,7 @@ class Formpage extends Component {
   render() {
     return (
       <>
-        <h1 className="head">!! Employee Feedback Form !!</h1>
+        <h1 className="head">!! Employee Feedback Form With All Details !!</h1>
         {this.state.pageDirect ? (
           <form>
             <label className="label" htmlFor="name">

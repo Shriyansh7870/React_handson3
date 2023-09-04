@@ -1,10 +1,6 @@
 import React, { Component } from "react";
 
 class DataStore extends Component {
-  // constructor(props) {
-  //   super();
-  // }
-
   render() {
     return (
       <div className="parent">

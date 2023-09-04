@@ -19,7 +19,7 @@ body{
   border-radius: 10px;
   font-size: 18px;
   margin-left: 60px;
-  background-color: rgb(148, 239, 239);
+  background-color: rgb(229, 137, 234);
 }
 .btn{
   width: 200px;
@@ -38,5 +38,5 @@ body{
   border-radius: 10px;
   font-size: 22px;
   margin-left: 80px; 
-  background-color: bisque;
+  background-color: rgb(146, 98, 121);
 }
